@@ -10,7 +10,7 @@ Projet donné par Jean simplon.co
   5. Sequence Diagram
   
  
-  Les attentes:
+Les attentes:
  
     Lors de ce projet, il était attendu de représenter les différents schémas UML concernant la conception d'une plateforme de formation,
     nous devions gérer les acteurs suivant :
@@ -98,7 +98,7 @@ Ce diagramme montre les actions communes à tous les utilisateurs.
   
     Le chargé de promos accède à la page de gestion des formateurs, le diagramme d'activité représente les cas suivants:
       
-        - Si l'option modificateur et appelé pour ajouter un formateur, on ajoute un formateur et on termine le processus.
+        - Si l'option modificateur est appelée pour ajouter un formateur, on ajoute un formateur et on termine le processus.
         - Si l'option supprimer est sélectionné, nous supprimons l'utilisateur et on termine le processus.
 
   ### Assignation et corrigé projet:
