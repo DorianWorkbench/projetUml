@@ -112,6 +112,22 @@ Ce diagramme montre les actions communes à tous les utilisateurs.
         - Par la suite, nous assignons le projet et l'apprenant rend le projet.
         - Le formateur corrige le projet rendu par l'apprenant qu'il valide ou non.
         - Si le projet est validé, nous terminons le procéssus, s'il n'est pas validé, le projet lui ai réassigné.
+  
+  ### Création promotion:
+  
+  Voici le diagramme d'activité concernant la création d'une promotion:
+  <img src="1_Activity/creationPromotion.png" width=500>
+  
+    Le chargé de promotion accède à la page de création de promotion et est invité à saisir le nom de la dite promotion:
+      
+        - Si le nom de la promotion est incorrect, nous invitons le chargé de promos à ressaisir le nom de la promotion.
+        - Si le nom de la promotion est correct, nous affichons la liste des formations disponibles.
+        - Nous invitons l'utilisateur à saisir la formation voulu pour la création de la promo
+        - Par la suite nous proposons au chargé de promos de sélectionner le ou les formateurs.
+        - Si le formateur est déjà assigné à une promo, nous renvoyons un message d'erreur et nous demandons la saisie d'un autre formateur.
+        - Si le formateur n'est pas assigné à une promo, nous renvoyons un message de confirmation de l'ajout du formateur.
+        - Nous sommes ensuite redirigé vers l'affichage des apprenants, nous avons le choix de selectionner des apprenants ou non en validant directement.
+
         
   ##  Diagramme de classe:
   
