@@ -154,7 +154,7 @@ Ce diagramme montre les actions communes à tous les utilisateurs.
   ##  Diagrammes de séquence:
   ### Diagramme de séquence pour la création d'un nouveau centre:
   Voici le diagramme de séquence pour l'ajout d'un nouveau centre:
-  <img src="3_Sequence/SeqCreateCentre.jpg" width=500>
+  <img src="3_Sequence/SeqCreateCentre.jpg" width=800>
   
   ### Diagramme de séquence pour la gestion des retards:
   Voici le diagramme de séquence pour la gestion des retards:
