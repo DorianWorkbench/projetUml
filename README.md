@@ -8,6 +8,7 @@ Projet donné par Jean simplon.co
   3. Activity Diagram 
   4. Class Diagram
   5. Sequence Diagram
+  6. Maquette Fonctionnelle
   
  
 Les attentes:
@@ -159,3 +160,6 @@ Ce diagramme montre les actions communes à tous les utilisateurs.
   ### Diagramme de séquence pour la gestion des retards:
   Voici le diagramme de séquence pour la gestion des retards:
   <img src="3_Sequence/SeqGestionRetards.png" width=800>
+  
+  ##  Maquette fonctionnelle:
+  Le lien vers le figma de la maquette fonctionnelle: https://www.figma.com/proto/4oyUD1HiDlHclH6Mz1aNie/Untitled?scaling=min-zoom
