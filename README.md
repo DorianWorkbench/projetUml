@@ -2,8 +2,29 @@
 
 ###### tags: Projet donné par Jean
 ## :pencil2: Sommaire
-[toc]
- 
+
+- Les attentes
+- Diagramme des cas d'utilisation
+  * Diagramme global des cas d'utilisation :
+  * Diagramme des cas d'utilisation apprenant :
+  * Diagramme des cas d'utilisation chargé de promos :
+  * Diagramme des cas d'utilisation directeur de région:
+  * Diagramme des cas d'utilisation du formateur:
+- Diagrammes d'activité:
+  * Gestion de retards et d'absence:
+  * Modification formateur:
+  * Assignation et corrigé projet:
+  * Création promotion:
+- Diagramme de classe:
+  * Centres de formation :
+  * Modification formateur :
+  * Gestion des retards et des absences:
+  * Gestion des projets :
+- Diagrammes de séquence :
+  * Création d'un nouveau centre :
+  * Gestion des retards:
+- Maquette fonctionnelle :
+
 ## Les attentes
 Lors de ce projet, il était attendu de représenter les différents schémas UML concernant la conception d'une plateforme de formation,
 nous devions gérer les acteurs suivant :
