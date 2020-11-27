@@ -129,7 +129,7 @@ Ce diagramme montre les actions communes à tous les utilisateurs.
         - Nous sommes ensuite redirigé vers l'affichage des apprenants, nous avons le choix de selectionner des apprenants ou non en validant directement.
 
         
-  ##  Diagramme de classe:
+  ##  Diagrammes de classe:
   
   ### Gérer les centres de formation:
   
@@ -150,3 +150,12 @@ Ce diagramme montre les actions communes à tous les utilisateurs.
   
   Voici le diagramme de classe pour la gestion des projets:
   <img src="2_Class/projetFormateur.png" width=600>
+  
+  ##  Diagrammes de séquence:
+  ### Diagramme de séquence pour la création d'un nouveau centre:
+  Voici le diagramme de séquence pour l'ajout d'un nouveau centre:
+  <img src="3_Sequence/SeqCreateCentre.jpg" width=500>
+  
+  ### Diagramme de séquence pour la gestion des retards:
+  Voici le diagramme de séquence pour la gestion des retards:
+  <img src="3_Sequence/SeqGestionRetards.png" width=800>
